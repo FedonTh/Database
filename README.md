@@ -20,7 +20,8 @@ The assignment had two phases: a **Preparatory Phase** and an **Added Requiremen
 In the **Preparation Phase**, the starting database was created from a starting relational diagramm: <img width="1050" height="635" alt="image" src="https://github.com/user-attachments/assets/7bfaa82b-7e41-4c5f-8910-ab65fc796b88" />
 After that, a number of inserts were created for each table, showing all possible relations of each table.
 
-In the **Added Requirements Phase**, more fields and tables were created, as well as procudures and triggers to fulfill the extra requirements. The last ones included: mechanisms to insert and manage the promotion applications, a mechanism to evaluate and export results for the promοtion applications, creating an application history and creating a database admin. Each requirements had different subrequirements into it. Lastly, indexes were also used in the application history table to speed up searching significantly. Thus, we get the final relational graph:
+In the **Added Requirements Phase**, more fields and tables were created, as well as procudures and triggers to fulfill the extra requirements. The last ones included: mechanisms to insert and manage the promotion applications, a mechanism to evaluate and export results for the promοtion applications, creating an application history and creating a database admin. Each requirements had different subrequirements into it. Lastly, indexes were also used in the application history table to speed up searching significantly.
+Thus, we get the final relational graph:
 <img width="912" height="543" alt="image" src="https://github.com/user-attachments/assets/756e5c64-cfb4-4072-99fc-518c1c690f2b" />
 
 
