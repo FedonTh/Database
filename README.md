@@ -17,6 +17,7 @@ A local server was hosted using _MySQL Workbench_, with the latter also being us
 ### Details
 The assignment had two phases: a **Preparatory Phase** and an **Added Requirements Phase**.
 
+
 In the **Preparation Phase**, 
 
 
